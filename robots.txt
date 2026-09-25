@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://cn.xn--ytoo-tg9g424p.com/sitemap.xml
